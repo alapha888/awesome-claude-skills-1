@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [agent-skills-en](https://github.com/alapha888/agent-skills-en) - 5 MIT-licensed productivity skills for everyday knowledge work: tech-writing proofreading, conventional commit messages, meeting minutes, five-axis code review, and deep-research framing.
 
 
 ## 🤝 Contribution
