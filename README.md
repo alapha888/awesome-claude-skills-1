@@ -199,6 +199,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [session-handoff-kit](https://github.com/alapha888/session-handoff-kit) - Session handoff kit for coding agents: a SKILL.md for structured session handoffs, plus a context-hygiene checklist and a handoff-note template (MIT).
 
 
 ## 🛡 Security & Web Testing
